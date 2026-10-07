@@ -1,4 +1,4 @@
-# 💧 Water Quality Monitoring using IoT, Edge AI & Water Quality Index
+# Water Quality Monitoring using IoT, Edge AI & Water Quality Index
 
 > **An intelligent water-quality monitoring framework combining IoT sensing, edge-compatible data processing, Water Quality Index (WQI) assessment, machine learning, and explainable AI.**
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Water quality monitoring traditionally relies on periodic sampling and laboratory-based analysis. Although these approaches can provide accurate measurements, they may be time-consuming, expensive, and unsuitable for continuous monitoring.
 
@@ -23,13 +23,13 @@ The framework focuses on three measured water-quality parameters:
 
 The measurements are processed to support **Water Quality Index (WQI)** assessment and machine-learning-based water-quality classification. The overall approach is designed with **edge-compatible processing** in mind, allowing analysis to be performed closer to the sensing layer rather than depending entirely on remote/cloud computation.
 
-### 🎯 Main Goal
+### Main Goal
 
 > **To develop a practical intelligent monitoring framework that can sense, process, assess, and interpret water-quality information using IoT and AI techniques.**
 
 ---
 
-## 🧠 System at a Glance
+##  System at a Glance
 
 ```text
 ┌──────────────────────┐
@@ -80,7 +80,7 @@ The measurements are processed to support **Water Quality Index (WQI)** assessme
 
 ---
 
-## 🔬 System Overview
+##  System Overview
 
 The proposed framework consists of several interconnected stages.
 
@@ -132,7 +132,7 @@ The framework is designed around the idea of performing computational processing
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 The conceptual architecture can be divided into five layers:
 
@@ -167,7 +167,7 @@ Provides an interpretable water-quality assessment that can support monitoring a
 
 ---
 
-## 🤖 Machine Learning
+##  Machine Learning
 
 The machine-learning component treats water-quality assessment as a classification problem using processed water-quality features.
 
@@ -188,7 +188,7 @@ This distinction is intentional so that the repository does not claim to reprodu
 
 ---
 
-## 📊 Water Quality Index (WQI)
+##  Water Quality Index (WQI)
 
 WQI combines multiple water-quality measurements into a single numerical indicator.
 
@@ -216,7 +216,7 @@ The exact parameter weights, permissible/reference values, and category threshol
 
 ---
 
-## 📈 Research Evaluation
+##  Research Evaluation
 
 The research work reported observations from:
 
@@ -240,7 +240,7 @@ Logistic Regression
 
 ---
 
-## 🔍 Explainable AI
+##  Explainable AI
 
 Explainability is included as part of the broader intelligent-monitoring framework to improve the interpretability of machine-learning decisions.
 
@@ -254,7 +254,7 @@ However, **detailed quantitative XAI analysis is not included in this repository
 
 ---
 
-## ⚙️ Technology Stack
+##  Technology Stack
 
 | Category | Technologies / Components |
 |---|---|
@@ -269,33 +269,6 @@ However, **detailed quantitative XAI analysis is not included in this repository
 
 ---
 
-## 📁 Repository Structure
-
-```text
-Water-Quality-Edge-AI/
-│
-├── README.md
-├── .gitignore
-├── requirements.txt
-│
-├── docs/
-│   ├── methodology.md
-│   ├── system-architecture.md
-│   ├── wqi-methodology.md
-│   └── limitations.md
-│
-├── figures/
-│   └── README.md
-│
-├── data/
-│   └── README.md
-│
-├── src/
-│   └── README.md
-│
-└── results/
-    └── README.md
-```
 
 ### Directory purpose
 
@@ -316,7 +289,7 @@ Reserved for project/system figures that are appropriate for public release.
 
 ---
 
-## 🧪 Reproducibility & Research Scope
+##  Reproducibility & Research Scope
 
 This repository is intended as a **research/project documentation and portfolio repository** associated with the water-quality monitoring work.
 
@@ -348,7 +321,7 @@ This avoids presenting reconstructed material as the original research implement
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 The research work has several limitations that should be considered when interpreting the reported results:
 
@@ -377,7 +350,7 @@ These limitations are important for future extension of the framework.
 
 ---
 
-## 🚀 Future Work
+##  Future Work
 
 Possible future improvements include:
 
@@ -397,7 +370,7 @@ Possible future improvements include:
 
 ---
 
-## 🌍 Potential Applications
+##  Potential Applications
 
 The framework can be extended toward applications such as:
 
@@ -411,7 +384,7 @@ The framework can be extended toward applications such as:
 
 ---
 
-## 📚 Research Context
+##  Research Context
 
 This repository accompanies research on an **IoT-based intelligent water-quality monitoring framework** integrating sensing, WQI assessment, machine learning, and edge-oriented processing.
 
@@ -421,7 +394,7 @@ The repository is maintained as a public project showcase while the associated m
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Rishitha Chappidi**
 
@@ -432,7 +405,7 @@ GitHub: **[@Rishithachappidi](https://github.com/Rishithachappidi)**
 
 ---
 
-## 📜 Disclaimer
+##  Disclaimer
 
 This repository is provided for **research documentation, educational purposes, and project showcasing**.
 
@@ -442,7 +415,7 @@ The repository does not claim to contain the original implementation or complete
 
 ---
 
-## ⭐ Project Status
+##  Project Status
 
 **Status: Research / Documentation Showcase**
 
