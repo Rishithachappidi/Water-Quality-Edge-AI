@@ -394,34 +394,9 @@ The repository is maintained as a public project showcase while the associated m
 
 ---
 
-##  Author
 
-**Rishitha Chappidi**
 
-B.Tech — Artificial Intelligence & Data Science  
-Amrita Vishwa Vidyapeetham, Coimbatore
 
-GitHub: **[@Rishithachappidi](https://github.com/Rishithachappidi)**
-
----
-
-##  Disclaimer
-
-This repository is provided for **research documentation, educational purposes, and project showcasing**.
-
-Reported performance values are reproduced from the associated research work and should not be interpreted as independently reproducible benchmark results from this repository.
-
-The repository does not claim to contain the original implementation or complete experimental dataset.
-
----
-
-##  Project Status
-
-**Status: Research / Documentation Showcase**
-
-The project documentation reflects the current research framework and reported findings. Further experimental validation and implementation release may be added when the corresponding materials become available.
-
----
 
 ### Keywords
 
